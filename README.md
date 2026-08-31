@@ -21,7 +21,7 @@ Este perfil reúne parte da minha evolução, automações e dos projetos que de
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,java,linux,docker,git,github,mysql,postgres,sqlite,vscode&theme=dark">
+<img src="https://skillicons.dev/icons?i=python,go,linux,docker,git,github,mysql,postgres,sqlite,vscode&theme=dark">
 </p>
 
 ---
