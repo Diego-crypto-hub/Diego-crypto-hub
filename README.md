@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=DG%20(Diego%20Lamoglia)&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=%20(Diego%20Lamoglia)&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
