@@ -29,13 +29,12 @@ Este perfil reúne parte da minha evolução, automações e dos projetos que de
 ## 📊 Estatísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Diego-crypto-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-crypto-hub&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 📈 Contribuições
